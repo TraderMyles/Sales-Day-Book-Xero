@@ -1,3 +1,16 @@
+# local secrets & tokens
+.env
+xero_tokens.json
+
+# local artifacts
+output/
+*.xlsx
+*.log
+dist/
+build/
+__pycache__/
+*.spec
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
